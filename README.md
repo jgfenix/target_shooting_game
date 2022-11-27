@@ -12,7 +12,7 @@ See sample below :eyes:
 
 ![alt text](demo/demo-video.gif)
 
-You can test this game on page https://jgfenix.github.io/target_shooting_game/shooting_game_demo.html
+You can test this game on PC by accessing page https://jgfenix.github.io/target_shooting_game/shooting_game_demo.html
 
 (generated html by https://schellingb.github.io/LoveWebBuilder :heart:)
 
